@@ -1,6 +1,6 @@
 # generator-angular-gulp-browserify [![Build Status](https://travis-ci.org/alferov/generator-angular-gulp-browserify.svg?branch=master)](https://travis-ci.org/alferov/generator-angular-gulp-browserify)
 
-An [AngularJS](https://angularjs.org/) project generator for [Yeoman](http://yeoman.io). This generator is build on top of [angularjs-gulp-browserify-boilerplate](https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate). It uses SASS, Gulp, and Browserify and utilizes [best AngularJS practices](https://github.com/toddmotto/angularjs-styleguide) and Gulp best practices from [this resource](https://github.com/greypants/gulp-starter).
+An [AngularJS](https://angularjs.org/) project generator for [Yeoman](http://yeoman.io). This generator is build on top of [angularjs-gulp-browserify-boilerplate](https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate) for a [fork of the same repo](https://github.com/cshaver/angularjs-gulp-browserify-boilerplate). It uses SASS, Gulp, and Browserify and utilizes [best AngularJS practices](https://github.com/toddmotto/angularjs-styleguide) and Gulp best practices from [this resource](https://github.com/greypants/gulp-starter).
 
 ## Getting Started
 ```bash
